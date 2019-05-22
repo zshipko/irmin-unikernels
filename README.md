@@ -4,3 +4,4 @@ A collection of example [MirageOS](https://mirage.io) unikernels using [irmin](h
 
 - `hello`: the most basic example
 - `pull`: pull from a remote store
+- `kv`: interfacing with `Mirage_types_lwt.KV_RO` and `Mirage_types_lwt.KV_RW`
